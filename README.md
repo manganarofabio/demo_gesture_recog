@@ -8,5 +8,5 @@ This system is part of my master's degree thesis better explained in the repo: g
 ## Method
 
 The implemented method follows the schema in the following flow chart:
-<img src="">
+<img src="https://github.com/manganarofabio/demo_gesture_recog/blob/master/demo1.png" width=500 heigth=500>
 
