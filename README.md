@@ -1,9 +1,7 @@
 # demo_gesture_recog
-Working prototype of a CNN based gesture recognition system using depht maps and ir images.
+Working prototype of a CNN based gesture recognition system using depth maps and IR images.
 
 This system is part of my master's degree thesis better explained in the repo: [gesture_recog_NN](https://github.com/manganarofabio/gestures_recog_NN).
-
-
 
 ## Method
 
